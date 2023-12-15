@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import './Pokecard.css'
+
+
 
 function App() {
   return (
-    <div>
-
+    <div className='App'>
+      <h1>Pokemon Go Card Game </h1>
     </div>
   )
 }
